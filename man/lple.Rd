@@ -83,8 +83,7 @@ This package was build on code developed by Yicong Liu for simple treatment-biom
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 \seealso{
 %% ~~objects to See Also as \code{\link{help}}, ~~~
-%\code{\link{bhm}},
-\code{\link{coxph}},
+\code{\link[survival]{coxph}},
 \code{\link{lpl.control}}
 \code{\link{print.lple}}
 \code{\link{plot.lple}}

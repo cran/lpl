@@ -42,7 +42,7 @@ predict.lple returns a list of predicted values, prediction error and residuals.
 \seealso{
  The default method for predict \code{\link{predict}},
   
- For the Cox model prediction: \code{\link{predict.coxph}}.
+ For the Cox model prediction: \code{\link[survival]{predict.coxph}}.
 #\code{\link{survfit.lple}}
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
